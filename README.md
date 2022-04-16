@@ -1,37 +1,25 @@
-# Hi there, I'm Alexandre - aka [XoforickS] 👋 
+# Alexandre Nourry
 
-[![Website](./img/globe-light.svg)](http://alexandrenourry.fr.s3-website.eu-west-3.amazonaws.com/)
-[![website](./img/globe-dark.svg)](http://alexandrenourry.fr.s3-website.eu-west-3.amazonaws.com/)
+👋 Hi there, I'm Alexandre! Let me tell you a bit about me!
 
+I'm a young **Web developer** and I live in France.<br>
+I love coding & animals & Guitar <3. Looking to have a healthy life and learn everything i can !
 
-## I'm a Web developer, Student and Apprentice!!
+### What I'm learning and know:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-- 🌱 I’m currently trying to learn everything i can
-- 👯 I’m currently working with a lot of great people on multiple project
-- 🥅 2022 Goals: Become Full-stack Developper
+### Want to contact me?:
+alexandre77.nourry@gmail.com<br>
+https://www.linkedin.com/in/alexandre-nourry-71465a236/
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](http://alexandrenourry.fr.s3-website.eu-west-3.amazonaws.com/)
-[![website](./img/globe-dark.svg)](http://alexandrenourry.fr.s3-website.eu-west-3.amazonaws.com/)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alexandre-nourry-71465a236/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alexandre-nourry-71465a236/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="padding-right:10px;" />][tailwindcssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="Nuxt" src="	https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" style="padding-right:10px;" />][nuxtplaylist]
-[<img align="left" alt="VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/XoforickS)
-
-<br />
-<br />
-
----
+### Have a look at my current portfolio:
+http://alexandrenourry.fr.s3-website.eu-west-3.amazonaws.com/
