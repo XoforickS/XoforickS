@@ -2,7 +2,7 @@
 
 👋 Hi there, I'm Alexandre! Let me tell you a bit about me!
 
-I'm a young **Web developer** and I live in France.<br>
+I'm a young **Web developer** who live in France.<br>
 I love coding & animals & Guitar <3. Looking to have a healthy life and learn everything i can !
 
 ### What I'm learning and know:
