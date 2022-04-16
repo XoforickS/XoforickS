@@ -3,7 +3,7 @@
 👋 Hi there, I'm Alexandre! Let me tell you a bit about me!
 
 I'm a young **Web developer** who live in France.<br>
-I love coding & animals & Guitar. Looking to have a healthy life and learn everything i can !
+I love coding & animals & Guitar. Looking to learn everything i can !
 
 ### What I'm learning and know:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
