@@ -1,4 +1,5 @@
-# Alexandre Nourry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Alexandre Nourry
 
 👋 Hi there, I'm Alexandre! Let me tell you a bit about me!
 
