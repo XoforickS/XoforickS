@@ -19,7 +19,7 @@ I love coding & animals & Guitar. Looking to learn everything i can !
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Want to contact me?:
-alexandre77.nourry@gmail.com<br>
+alexandre77nourry77@gmail.com<br>
 https://www.linkedin.com/in/alexandre-nourry-71465a236/
 
 ### Have a look at my current portfolio:
